@@ -10,7 +10,7 @@ function App() {
           Theebaseharan M S.
         </p>
         <p>
-          Networks and DevOps Engineer.<br>Tools : AWS , Packet Tracer </br>
+          Networks and DevOps UI/UI Designer.<br>Tools : AWS , Packet Tracer </br>
         </p>
         
       </header>
